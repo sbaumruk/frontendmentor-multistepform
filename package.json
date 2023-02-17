@@ -33,6 +33,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-netlify": "^2.0.5",
 		"svelte-material-ui": "^7.0.0-beta.0"
 	}
 }
