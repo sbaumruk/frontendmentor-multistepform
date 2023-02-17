@@ -4,10 +4,14 @@ module.exports = {
   theme: {
     extend: {
       borderRadius: {
-        1: '1px'
+        1: '1px',
+        "sm-md": '0.3rem'
       },
       fontWeight: {
         semibold: 500
+      },
+      borderWidth: {
+        1: '1px'
       }
     },
     colors: {
@@ -21,7 +25,7 @@ module.exports = {
       magnolia: 'hsl(217, 100%, 97%)',
       alabaster: 'hsl(231, 100%, 99%)',
       white: '#fff'
-    },
+    }
   },
   plugins: [],
 }

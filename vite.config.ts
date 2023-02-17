@@ -5,7 +5,7 @@ const config: UserConfig = {
 	plugins: [sveltekit()],
 	 server: {
 		fs: {
-			allow: ['C:\\Users\\chill\\Downloads\\multi-step-form-main\\multi-step-form-main']
+			allow: ['./']
 		}
 	 }
 };
