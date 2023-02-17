@@ -45,7 +45,7 @@ export const plans: {
                 monthly: 9,
                 yearly: 90
             },
-            imgSrc: '/assets/images/icon-arcade.svg',
+            imgSrc: '/images/icon-arcade.svg',
             promo: "2 months free"
         },
         {
@@ -54,7 +54,7 @@ export const plans: {
                 monthly: 12,
                 yearly: 120
             },
-            imgSrc: '/assets/images/icon-advanced.svg',
+            imgSrc: '/images/icon-advanced.svg',
             promo: "2 months free"
         },
         {
@@ -63,7 +63,7 @@ export const plans: {
                 monthly: 15,
                 yearly: 150
             },
-            imgSrc: '/assets/images/icon-pro.svg',
+            imgSrc: '/images/icon-pro.svg',
             promo: "2 months free"
         }
     ]

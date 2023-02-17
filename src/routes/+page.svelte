@@ -18,7 +18,7 @@
 </script>
 
 <div id="background" class="absolute z-10">
-	<img src="/assets/images/bg-sidebar-mobile.svg" alt="background" />
+	<img src="/images/bg-sidebar-mobile.svg" alt="background" />
 </div>
 <div id="foreground" class="relative z-20 h-full">
 	<div id="steps" class="flex justify-center gap-4 py-6">

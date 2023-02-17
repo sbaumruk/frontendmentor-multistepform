@@ -45,7 +45,7 @@
 			<span
 				class="checkbox m-auto w-5 h-5 rounded-sm-md border-1 border-lightGray peer-checked:bg-purplish transition flex justify-center items-center"
 			>
-				<img alt="checkbox" src="/assets/images/icon-checkmark.svg" class="w-3 h-3" />
+				<img alt="checkbox" src="/images/icon-checkmark.svg" class="w-3 h-3" />
 			</span>
 		</div>
 		<div class="col-span-8 flex flex-col">
